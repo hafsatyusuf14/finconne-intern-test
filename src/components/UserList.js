@@ -6,7 +6,7 @@ const UserList = () => {
   const initialUsers = [
     {
       id: 1,
-      name: "Maryam",
+      name: "Sadiq",
       imageUrl:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuRXe7gJVtj1OdQ_6J9vodJMU-SB9ZjFdUg&s",
     },
@@ -24,7 +24,7 @@ const UserList = () => {
     },
     {
       id: 4,
-      name: "Abdul",
+      name: "Abdulateef",
       imageUrl:
         "https://i.pinimg.com/originals/76/80/4f/76804f67ba38f85e4802d250e5b15504.jpg",
     },
@@ -48,7 +48,7 @@ const UserList = () => {
     },
     {
       id: 8,
-      name: "Maryam",
+      name: "Halima",
       imageUrl:
         "https://storage.googleapis.com/pfpai/styles/6dc2813b-7edf-495d-a83e-8a532119d653.png?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=headshotpro-backend-production%40stockai-362303.iam.gserviceaccount.com%2F20241026%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241026T020933Z&X-Goog-Expires=518400&X-Goog-SignedHeaders=host&X-Goog-Signature=9c246a44474e8d25c82f93059492853ef37b2360bf60583b1da9e01a4aa0ebed5bfcc60648779ae0350e430122e018f26787a5223d360ba62ef75de2342bc02d64244b1696ba1573a5ad3591bb01e0e06adedefba848983d37d0e405278972c4c05635fb20d434f807e24872c0385c728534c7881ae52843806cfcbc4ec3991b21af4acd62423ed6f5c430c856788072f2b1ec366028a0d58b72f49a1d802503a1107c911a877ed346175d9b40f7e54e47e4b27a3e0c0b20fab49895f50a45c62fb08cf611dbe5edfe99d32f72104b6f2e369da0ca8d3101d5a32ee9b220a797ec15d40cdc8422140653b3efbb02b1d1b25a2ae104d20a6729f288ba41a1bfc9",
     },
