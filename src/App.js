@@ -1,25 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import UserList from "./components/UserList";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <div className="min-h-screen bg-gradient-to-b from-blue-200 to-orange-500 flex flex-col items-center">
+      <header className="bg-purple-700 w-full py-6 text-center text-white text-2xl font-bold shadow-md">
+        User List
       </header>
+      <UserList />
     </div>
   );
-}
+};
 
 export default App;
