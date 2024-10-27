@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/finconne-test/static/css/main.32b30207.css",
-    "main.js": "/finconne-test/static/js/main.24dbc38e.js",
+    "main.js": "/finconne-test/static/js/main.b032c43e.js",
     "index.html": "/finconne-test/index.html",
     "main.32b30207.css.map": "/finconne-test/static/css/main.32b30207.css.map",
-    "main.24dbc38e.js.map": "/finconne-test/static/js/main.24dbc38e.js.map"
+    "main.b032c43e.js.map": "/finconne-test/static/js/main.b032c43e.js.map"
   },
   "entrypoints": [
     "static/css/main.32b30207.css",
-    "static/js/main.24dbc38e.js"
+    "static/js/main.b032c43e.js"
   ]
 }
